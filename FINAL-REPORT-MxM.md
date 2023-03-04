@@ -13,7 +13,7 @@ Trang web gồm có 2 domain như sau:
  - **Web-Upload**: [https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech) => Trang web dùng để xử lý tính năng upload avatar và lưu trữ hình avatar.
 
 
-### Mục lục
+## Mục lục
 
 - #### KB-01-Operation: lộ link tải mã nguồn của 2 trang web tại [/robots.txt](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech/robots.txt) 
 
