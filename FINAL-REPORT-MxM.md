@@ -15,17 +15,17 @@ Trang web gồm có 2 domain như sau:
 
 ### Mục lục
 
-#### KB-01-Operation: lộ link tải mã nguồn của 2 trang web tại [/robots.txt](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech/robots.txt) 
+- #### KB-01-Operation: lộ link tải mã nguồn của 2 trang web tại [/robots.txt](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech/robots.txt) 
 
-#### KB-02-FileUpload: Lỗi File Upload cho phép tải tập tin có chứa mã độc lên trang [**Web-Upload**](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech) tại API [/index.php](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech/index.php)
+- #### KB-02-FileUpload: Lỗi File Upload cho phép tải tập tin có chứa mã độc lên trang [**Web-Upload**](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech) tại API [/index.php](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech/index.php)
 
-#### KB-03-RCE: Lỗi RCE cho phép thực thi mã từ xa tại [**Web-Upload**](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech)  API [/upload/14c78e3702622bb0.php](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech/upload/14c78e3702622bb0.php) 
+- #### KB-03-RCE: Lỗi RCE cho phép thực thi mã từ xa tại [**Web-Upload**](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech)  API [/upload/14c78e3702622bb0.php](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech/upload/14c78e3702622bb0.php) 
 
-#### KB-04-XSS: Lỗi XSS cho phép đánh cấp thông tin người dùng tại [**Web-Main**](https://koinbase-ff27148a4.cyberjutsu-lab.tech) API  [/index.php](https://koinbase-ff27148a4.cyberjutsu-lab.tech/index.php)
+- #### KB-04-XSS: Lỗi XSS cho phép đánh cấp thông tin người dùng tại [**Web-Main**](https://koinbase-ff27148a4.cyberjutsu-lab.tech) API  [/index.php](https://koinbase-ff27148a4.cyberjutsu-lab.tech/index.php)
 
-#### KB-05-IDOR: Lỗi IDOR cho phép chuyển tiền tùy ý giữa các tài khoản với nhau tại [**Web-Main**](https://koinbase-ff27148a4.cyberjutsu-lab.tech) API [/api/transaction.php?action=transfer_money](https://koinbase-ff27148a4.cyberjutsu-lab.tech/api/transaction.php?action=transfer_money)
+- #### KB-05-IDOR: Lỗi IDOR cho phép chuyển tiền tùy ý giữa các tài khoản với nhau tại [**Web-Main**](https://koinbase-ff27148a4.cyberjutsu-lab.tech) API [/api/transaction.php?action=transfer_money](https://koinbase-ff27148a4.cyberjutsu-lab.tech/api/transaction.php?action=transfer_money)
 
-#### KB-06-SLQi: Lỗi Sql Injection cho phép lấy thông tin của tài khoản bất kỳ tại [**Web-Main**](https://koinbase-ff27148a4.cyberjutsu-lab.tech) API [/api/user.php?action=public_info](https://koinbase-ff27148a4.cyberjutsu-lab.tech/api/user.php?action=public_info)
+- #### KB-06-SLQi: Lỗi Sql Injection cho phép lấy thông tin của tài khoản bất kỳ tại [**Web-Main**](https://koinbase-ff27148a4.cyberjutsu-lab.tech) API [/api/user.php?action=public_info](https://koinbase-ff27148a4.cyberjutsu-lab.tech/api/user.php?action=public_info)
 
 
 ## KB-01-Operation: lộ link tải mã nguồn của 2 trang web tại [/robots.txt](https://upload.koinbase-ff27148a4.cyberjutsu-lab.tech/robots.txt) 
