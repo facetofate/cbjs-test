@@ -1,4 +1,4 @@
-# CẢNH BÁO LỖ HỔNG
+# BÁO CÁO LỖ HỔNG
 
 ## Tổng quan
 Koinbase là ứng dụng web với các tính năng chính như sau:
